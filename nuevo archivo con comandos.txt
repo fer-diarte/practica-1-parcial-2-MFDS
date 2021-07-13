@@ -1,0 +1,7 @@
+Una  version de archivos diferentes para la clase de desarrollos de aplicaciones empresariales. 
+
+Verificación de los 3 comandos utilizados en el git 
+
+Git ad --all
+Git commit -n "mi mensaje"
+Git --push all
